@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/grazierShahid/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/grazierShahid/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/grazierShahid/Leetcode/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/grazierShahid/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/grazierShahid/Leetcode/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -57,5 +59,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/grazierShahid/Leetcode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/grazierShahid/Leetcode/tree/master/0058-length-of-last-word) |
+| [0383-ransom-note](https://github.com/grazierShahid/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/grazierShahid/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
