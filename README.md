@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/grazierShahid/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/grazierShahid/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/grazierShahid/Leetcode/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/grazierShahid/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0539-minimum-time-difference](https://github.com/grazierShahid/Leetcode/tree/master/0539-minimum-time-difference) |
 ## Two Pointers
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/grazierShahid/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/grazierShahid/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/grazierShahid/Leetcode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/grazierShahid/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/grazierShahid/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/grazierShahid/Leetcode/tree/master/0383-ransom-note) |
 ## Divide and Conquer
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/grazierShahid/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/grazierShahid/Leetcode/tree/master/0392-is-subsequence) |
 | [0539-minimum-time-difference](https://github.com/grazierShahid/Leetcode/tree/master/0539-minimum-time-difference) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/grazierShahid/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
