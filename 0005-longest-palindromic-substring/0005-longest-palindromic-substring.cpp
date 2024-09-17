@@ -1,22 +1,25 @@
 class Solution {
 public:
-    bool isPalindrome(string s, int st, int en){
-        for(int i=st; i<en/2; i++){
-            if(s[i]!=s[en-1-i])
-                return false;
+    string ss;
+    bool isPalindrome(int i, int j){
+        while(i<j){
+            if(ss[i] != ss[j]) return false;
+            i++, j--;
         }
         return true;
     }
 
+
     string longestPalindrome(string s) {
         if(s.size()==1) return s;
+        ss = s;
 
         int st=0, len=0;
         for(int i=0; i<s.size(); i++){
             for(int j=i; j<s.size(); j++){
-                if(isPalindrome(s, i, j)){
+                if(isPalindrome(i, j)){
                     if(j-i+1 > len){
-                        len = j-i;
+                        len = j-i+1;
                         st = i;
                     }
                 }
