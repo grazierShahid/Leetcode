@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/grazierShahid/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/grazierShahid/Leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/grazierShahid/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/grazierShahid/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/grazierShahid/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/grazierShahid/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/grazierShahid/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/grazierShahid/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/grazierShahid/Leetcode/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/grazierShahid/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/grazierShahid/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/grazierShahid/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/grazierShahid/Leetcode/tree/master/0392-is-subsequence) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/grazierShahid/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/grazierShahid/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Linked List
 |  |
