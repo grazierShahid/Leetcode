@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/grazierShahid/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/grazierShahid/Leetcode/tree/master/0342-power-of-four) |
 | [0539-minimum-time-difference](https://github.com/grazierShahid/Leetcode/tree/master/0539-minimum-time-difference) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/grazierShahid/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -163,4 +164,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/grazierShahid/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/grazierShahid/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/grazierShahid/Leetcode/tree/master/0342-power-of-four) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/grazierShahid/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
