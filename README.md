@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/grazierShahid/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/grazierShahid/Leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/grazierShahid/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/grazierShahid/Leetcode/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/grazierShahid/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/grazierShahid/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/grazierShahid/Leetcode/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/grazierShahid/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
