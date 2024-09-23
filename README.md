@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/grazierShahid/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/grazierShahid/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/grazierShahid/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/grazierShahid/Leetcode/tree/master/0231-power-of-two) |
 | [0539-minimum-time-difference](https://github.com/grazierShahid/Leetcode/tree/master/0539-minimum-time-difference) |
 ## Dynamic Programming
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/grazierShahid/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/grazierShahid/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/grazierShahid/Leetcode/tree/master/0231-power-of-two) |
 ## Trie
 |  |
 | ------- |
@@ -157,4 +159,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/grazierShahid/Leetcode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/grazierShahid/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
