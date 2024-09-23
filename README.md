@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/grazierShahid/Leetcode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/grazierShahid/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/grazierShahid/Leetcode/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/grazierShahid/Leetcode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/grazierShahid/Leetcode/tree/master/0539-minimum-time-difference) |
 ## Two Pointers
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/grazierShahid/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/grazierShahid/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/grazierShahid/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/grazierShahid/Leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/grazierShahid/Leetcode/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/grazierShahid/Leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/grazierShahid/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/grazierShahid/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/grazierShahid/Leetcode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/grazierShahid/Leetcode/tree/master/0539-minimum-time-difference) |
 ## Counting
 |  |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/grazierShahid/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/grazierShahid/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/grazierShahid/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/grazierShahid/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/grazierShahid/Leetcode/tree/master/0342-power-of-four) |
 | [0539-minimum-time-difference](https://github.com/grazierShahid/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/grazierShahid/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -160,12 +164,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/grazierShahid/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/grazierShahid/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/grazierShahid/Leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/grazierShahid/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/grazierShahid/Leetcode/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/grazierShahid/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/grazierShahid/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/grazierShahid/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/grazierShahid/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/grazierShahid/Leetcode/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/grazierShahid/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
