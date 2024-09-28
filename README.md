@@ -175,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/grazierShahid/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/grazierShahid/Leetcode/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/grazierShahid/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Database
+|  |
+| ------- |
+| [1153-product-sales-analysis-i](https://github.com/grazierShahid/Leetcode/tree/master/1153-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
