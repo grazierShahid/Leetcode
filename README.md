@@ -178,5 +178,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0620-not-boring-movies](https://github.com/grazierShahid/Leetcode/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/grazierShahid/Leetcode/tree/master/1153-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
