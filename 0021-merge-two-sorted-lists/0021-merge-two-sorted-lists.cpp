@@ -1,8 +1,8 @@
 /**
  * Definition for singly-linked list.
  * struct ListNode {
- *     int val;
- *     ListNode *next;
+ *     int val; int;
+ *     ListNode *next, *prev;
  *     ListNode() : val(0), next(nullptr) {}
  *     ListNode(int x) : val(x), next(nullptr) {}
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
@@ -14,8 +14,8 @@ public:
         ListNode dummy;
         ListNode* res = &dummy;
 
-        while(list1 != NULL && list2 != NULL){
-            if(list1->val < list2->val){
+        while(list1 && list2){
+            if(list1->val <= list2 -> val){
                 res->next = list1;
                 list1 = list1->next;
             }
@@ -23,11 +23,10 @@ public:
                 res->next = list2;
                 list2 = list2->next;
             }
-            res = res->next;    
+            res=res->next;
         }
-
-        res->next = (list1 != NULL) ? list1 : list2;
-
+        res -> next = (list1) ? list1 : list2;
+        
         return dummy.next;
     }
 };
