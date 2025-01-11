@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/grazierShahid/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/grazierShahid/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/grazierShahid/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/grazierShahid/Leetcode/tree/master/0207-course-schedule) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/grazierShahid/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/grazierShahid/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
@@ -262,5 +263,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/grazierShahid/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/grazierShahid/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/grazierShahid/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0207-course-schedule](https://github.com/grazierShahid/Leetcode/tree/master/0207-course-schedule) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/grazierShahid/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/grazierShahid/Leetcode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/grazierShahid/Leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
