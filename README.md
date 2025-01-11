@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/grazierShahid/Leetcode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/grazierShahid/Leetcode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/grazierShahid/Leetcode/tree/master/0539-minimum-time-difference) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/grazierShahid/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/grazierShahid/Leetcode/tree/master/0342-power-of-four) |
 | [0539-minimum-time-difference](https://github.com/grazierShahid/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/grazierShahid/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/grazierShahid/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -238,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/grazierShahid/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/grazierShahid/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/grazierShahid/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
