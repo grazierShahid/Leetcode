@@ -9,12 +9,12 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-        ListNode* it = head;
-        
-        map<ListNode*, bool> mp;
+        auto it = head;
+
+        map<ListNode*, int> mp;
         while(it != NULL){
-            if(mp.count(it)) return true;
-            mp[it] = true;
+            if(mp[it] == 1) return true;
+            mp[it] = 1;
             it = it->next;
         }
         return false;
