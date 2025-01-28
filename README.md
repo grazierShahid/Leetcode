@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/grazierShahid/Leetcode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/grazierShahid/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/grazierShahid/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/grazierShahid/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/grazierShahid/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/grazierShahid/Leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/grazierShahid/Leetcode/tree/master/0383-ransom-note) |
 | [1256-rank-transform-of-an-array](https://github.com/grazierShahid/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/grazierShahid/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/grazierShahid/Leetcode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/grazierShahid/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/grazierShahid/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/grazierShahid/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Counting
 |  |
 | ------- |
